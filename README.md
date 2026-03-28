@@ -58,8 +58,7 @@ Upload your operations CSV → The AI decodes it in seconds → Savings manifest
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Anand2k29/GS-Chotu.git
-cd GS-Chotu
+git clone https://github.com/Arpita577-byte/GhostSpend_AI
 ```
 
 ### 2. Install dependencies
